@@ -1,0 +1,204 @@
+Uri: https://arsalancargo.com/
+File Name: D:\copyweb\newtest2\arsalancargo.com\index.htm
+Content Type: text/html
+
+Uri: https://arsalancargo.com/img/favicon.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\favicon.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/css/normalize.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/css/animate.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\animate.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/css/stellarnav.min.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\stellarnav.min.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/css/owl.carousel.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/css/bootstrap.min.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/css/font-awesome.min.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/style.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\style.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/css/responsive.css
+File Name: D:\copyweb\newtest2\arsalancargo.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://arsalancargo.com/js/vendor/modernizr-2.8.3.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\vendor\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/img/logo.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\logo.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/img/about/about-details-2.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\about\about-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/testmonial/1.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\testmonial\1.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/testmonial/2.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\testmonial\2.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/testmonial/3.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\testmonial\3.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/js/vendor/jquery-1.12.4.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\vendor\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/vendor/bootstrap.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/vendor/jquery.easing.1.3.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\vendor\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/vendor/jquery-migrate-1.2.1.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\vendor\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/vendor/jquery.appear.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\vendor\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/owl.carousel.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/stellar.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\stellar.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/wow.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/stellarnav.min.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\stellarnav.min.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/contact-form.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\contact-form.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/jquery.sticky.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/js/main.js
+File Name: D:\copyweb\newtest2\arsalancargo.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://arsalancargo.com/fonts/glyphicons-halflings-regular.eot
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://arsalancargo.com/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://arsalancargo.com/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://arsalancargo.com/fonts/glyphicons-halflings-regular.woff
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://arsalancargo.com/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://arsalancargo.com/fonts/glyphicons-halflings-regular.svg
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://arsalancargo.com/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://arsalancargo.com/fonts/fontawesome-webfont.eot?
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://arsalancargo.com/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://arsalancargo.com/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://arsalancargo.com/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://arsalancargo.com/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\copyweb\newtest2\arsalancargo.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://arsalancargo.com/img/title-border.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\title-border.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/img/slider/slide_1.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\slider\slide_1.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/slider/slide_2.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\slider\slide_2.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/slider/slide_3.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\slider\slide_3.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/service/service-cargo-bg.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\service\service-cargo-bg.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/img/service/service-area-bg.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\service\service-area-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/promo/promo_top_bg.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\promo\promo_top_bg.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/img/promo/promo_bottom_bg.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\promo\promo_bottom_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://arsalancargo.com/img/footer-map-bg.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\footer-map-bg.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/img/footer-border.png
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\footer-border.png
+Content Type: image/png
+
+Uri: https://arsalancargo.com/img/service/service-area-bg-2.jpg
+File Name: D:\copyweb\newtest2\arsalancargo.com\img\service\service-area-bg-2.jpg
+Content Type: image/jpeg
+
